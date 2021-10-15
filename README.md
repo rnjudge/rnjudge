@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
-I'm Rose and am currently an Open Source Engineer at VMware where I co-maintain [Tern](https://github.com/tern-tools/tern), a container inspection tool written in Python. Prior to VMware, I worked at IBM on embedded Linux distributions.
+I'm Rose and I'm an Open Source Engineer at VMware where I'm a maintainer for [Tern](https://github.com/tern-tools/tern), a container inspection tool written in Python that helps users better understand their container supply chain. Prior to VMware, I worked on embedded Linux distributions at IBM. 
 
-🌱 I’m currently (trying) to learn: go.
+### Open Source 
+I'm currently the chair of the [Automating Compliance Tooling](https://github.com/act-project/TAC) Technical Advisory Council. I reguarly participate in [SPDX](https://spdx.dev/about/) Tech Team calls, speak at Open Source conferences/events and write [blogs](https://blogs.vmware.com/opensource/?s=rose+judge) for my employer about a variety of Open Source topics.
 
-📫 How to reach me: tweet @rosejudge5
-
-👯 Pronouns: she/her
+### Reach out
+Find me on the bird app @rosejudge5
 
 <!--
 **rnjudge/rnjudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
